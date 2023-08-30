@@ -688,6 +688,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          display: inline-block;
 
           &:hover {
             color: var(--global-theme-color);
