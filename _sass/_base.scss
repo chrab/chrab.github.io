@@ -649,15 +649,28 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          display: inline-block;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
         }
+        span {
+          display: inline-block;
+          color: $black-color;
+          height: 100%;
+          padding-right: 0.5rem;
+          vertical-align: middle;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
       }
 
       .badges {
+        display: inline;
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
