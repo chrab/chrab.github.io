@@ -1,0 +1,54 @@
+\resumeitem{14.07.2023, Kraków}{\textit{Circumplanetary Disks (also with JWST).} Conference - EAS Session S7, \textbf{invited}}\\
+
+\resumeitem{13.06.2023, Tautenburg}{\textit{From protoplanetary to planet-forming disks.} \newline Institute's Colloquium TLS Tautenburg, \textbf{invited}}\\
+
+\resumeitem{10.11.2022, Florence}{\textit{Constraining the stellar energetic particle flux of T Tauri stars.} \newline Conference - Cosmic rays - the salt of the star formation recipe II, contributed}\\
+
+\resumeitem{26.09.2022, Vienna}{\textit{Protoplanetary/Planet-forming disks - The power of spectral line observations.} \newline Ernst Dorfi Summerschool, \textbf{invited}}\\
+
+
+\resumeitem{23.07.2022, Athens}{\textit{Constraining Coronal Mass Ejection and the Stellar Energetic Particle Fluxes from Young Stars During the Period of Planet Formation.} \newline \mbox{Conference - COSPAR 2022 -}  D2.2: Connecting Solar and Stellar Coronal Mass Ejections: Lessons Learned, Challenges and Perspectives, contributed.}\\
+
+\resumeitem{22.07.2022, Athens}{\textit{Observing the gas disk around the young planet-mass companion CT Cha b with JWST and ALMA.} \mbox{Conference - } COSPAR 2022 - E1.10: Star Formation with Spaceborne Infrared Facilities: the Era of JWST, contributed.}\\
+
+\resumeitem{16.12.2021, Online}{\textit{Constraining the energetic particle flux of young stars during the period of planet formation.} \mbox{Conference - }{AGU Fall Meeting - Cool Stars and Their Influence on (Exo)Planetary Habitability}, contributed.}\\
+
+\resumeitem{29.09.2021, Online}{\textit{Detecting PAHs in exoplanets and planet-forming disks with Twinkle.}\newline \mbox{Conference - }Twinkle and the Next Generation of Exoplanet Scientists, \newline lightning talk, contributed.}\\
+
+\resumeitem{13.09.2021, Online}{\textit{Constraining the energetic particle flux of young stars during the period of planet formation.} \mbox{Conference - }Virtual Meeting of the German Astronomical Society - Zooming into the Universe, contributed}\\
+
+\resumeitem{05.10.2020, Online}{\textit{Interpreting high spatial resolution line observations of planet-forming disks with gaps and rings: The case of HD 163296.} \mbox{Conference - } Planet Formation Witnesses and Probes: Transition Disks, contributed}\\
+
+\resumeitem{09.06.2020, Online}{\textit{Observing circumplanetary disks around wide-orbit planet-mass companions.} \mbox{Webinar - } Star \& Planet Formation, ESO, \textbf{invited}}\\
+
+\resumeitem{04.11.2019, T\"ubingen}{\textit{Radiation thermo-chemical modelling of planet-forming and circumplanetary disks.} Astrophysikalisches Seminar - Universit\"at T\"ubingen, \textbf{invited}}\\
+
+\resumeitem{02.08.2019, Vienna}{\textit{Proto-planetary/ planet forming disks - Interpreting ALMA observations}, \newline ESI workshop - Pathways from Star Formation to Habitable Planets, \textbf{invited}}\\
+
+\resumeitem{28.06.2019, Lyon}{\textit{Sources of variability in star-formation: a theoretical perspective}, EWASS - Star-formation in the time domain, \textbf{invited review}}\\
+
+\resumeitem{26.06.2019, Lyon}{\textit{The dust and gas structure of the HD 163296 planet-forming disk - Gas gaps or not?}, EWASS - Protoplanetary disks: the birth places of planets, contributed}\\
+
+\resumeitem{25.06.2019, Lyon}{\textit{A 2D radiation thermo-chemical model for the circumstellar environment of Class I protostars.} EWASS - The physics and chemistry of Class I protostars in the ALMA era, contributed}\\
+
+\resumeitem{13.09.2018, Assen}{\textit{X-rays and other high-energy ionization sources in protoplanetary disks.} Our Astro-Chemical History - Past, Present, and Future, \textbf{invited}}\\
+
+\resumeitem{04.05.2018, Florence}{\textit{Modelling of high-energy ionization processes in the circumstellar environment of young solar-like stars.} Cosmic rays - the salt of the star formation recipe, contributed}\\
+
+\resumeitem{23.05.2017, Nijmegen}{\textit{The chemistry of episodic accretion. 2D radiation thermo-chemical models of the post-burst phase.} Dutch Astronomy Conference 2017, contributed}\\
+
+\resumeitem{02.03.2017, Geneva}{\textit{Energetic protoplanetary disk modelling.} Seminar, Geneva Observatory, \textbf{invited}}\\
+
+
+\resumeitem{04.07.2016, Athens}{\textit{Modeling the chemistry of episodic accretion.} EWASS – Episodic accretion in star formation, contributed }\\
+
+\resumeitem{07.07.2016, Athens}{\textit{Possible observational signatures of stellar high energy particles in disks around T~Tauri stars.} EWASS – The Dynamics of Star and Planet Formation, contributed}\\
+
+
+\resumeitem{08.03.2016, Edinburgh}{\textit{Possible observational signatures of stellar high energy particles in disks around T~Tauri stars.} Protoplanetary Discussions, contributed}\\
+
+\resumeitem{23.02.2016, Grundlsee}{\textit{Computational Astrophysics: planets, stars and galaxies.} Austrian HPC Meeting, contributed}\\
+
+\resumeitem{15.12.2015, Vienna}{\textit{Modelling of Protplanetary Disks.}, Vienna Theory Lunch, \textbf{invited}}\\
+
+\resumeitem{03.09.2015, Vienna}{\textit{Observational signatures of Stellar Cosmic Rays in disks around T Tauri stars.} \mbox{OEGAA} Meeting, contributed}
