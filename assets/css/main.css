@@ -628,12 +628,24 @@ footer.sticky-bottom {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
+  display: inline-block;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
+.publications ol.bibliography li .links span {
+  display: inline-block;
+  color: #000000;
+  height: 100%;
+  padding-right: 0.5rem;
+  vertical-align: middle;
+}
+.publications ol.bibliography li .links span:hover {
+  text-decoration: underline;
+}
 .publications ol.bibliography li .badges {
+  display: inline;
   padding-bottom: 0.5rem;
 }
 .publications ol.bibliography li .badges span {
