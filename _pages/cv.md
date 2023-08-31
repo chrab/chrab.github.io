@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav: true
+nav_order: 2
+cv_pdf: ChristianRab-CV.pdf
 ---

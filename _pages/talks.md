@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks & posters
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 <!-- _pages/talks.md -->
 
