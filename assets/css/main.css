@@ -10,7 +10,7 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #0076df;
+  --global-theme-color: #00369f;
   --global-hover-color: #0076df;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
@@ -110,7 +110,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 
 .profile img {
@@ -126,6 +126,11 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+body {
+  font-family: "Verdana", Verdana, sans-serif;
+  font-size: 13pt;
+}
+
 p,
 h1,
 h2,
@@ -139,6 +144,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+b {
+  font-weight: bold;
 }
 
 hr {
@@ -598,7 +607,7 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
-  font-weight: bolder;
+  font-weight: bold;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
