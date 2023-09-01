@@ -16,7 +16,7 @@ nav_order: 4
 <ol reversed="">
 {% for talk in site.data.talks %}
     <li>
-    <strong>{{ talk.text }}</strong> <br /> 
+    <b>{{ talk.text }}</b> <br /> 
     {{ talk.location }}, {{ talk.date }}, {{ talk.type }} <br />
     {% if talk.link %}
     <a href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>

@@ -2,6 +2,11 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+body {
+  font-family: 'Verdana', Verdana, sans-serif;
+  font-size: 13pt;
+}
+
 // Typography
 
 p,
@@ -17,6 +22,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+b {
+  font-weight: bold;
 }
 
 hr {
@@ -610,7 +619,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: bold;
       }
 
       .author {

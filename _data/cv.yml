@@ -15,30 +15,33 @@
       institution: Universitäts-Sternwarte München-LMU, Garching, Germany 
       year: 08.2021–
       description: 
-        - Supervisor Barbara Ercolano
-        - 'DFG Research Unit: Planet Formation Witnesses and Probes: Transition Disks'
+        - 'Supervisor: Prof. Barbara Ercolano'
+        - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
+        - Thermochemistry and observables of disk winds.
         - 'Guest scientist at CAS@MPE'
 
     - title: Postdoc
       institution: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
       year: 07.2020–07.2021
       description: 
-        - Supervisor Paola Caselli
-        - 'DFG Research Unit: Planet Formation Witnesses and Probes: Transition Disks'
+        - 'Supervisor: Prof. Paola Caselli'
+        - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
+        - Thermochemistry and observables of disk winds.
 
     - title:  Postdoc
       institution: Kapteyn Astronomical Institute - University of Groningen, Netherlands
       year: 05.2017-06.2020
       description: 
-        - Supervisor Inga Kamp
-        - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.” Modelling of planet-forming and circumplanetary disks.'
+        - 'Supervisor: Prof. Inga Kamp'
+        - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.”'
+        - Modelling of planet-forming and circumplanetary disks.
 
     - title: PhD studies of Astronomy 
       institution:  University of Vienna, Vienna, Austria
       year: 10.2012-12.2017
       description: 
-        - 'Thesis: ”Modelling of energetic processes in the circumstellar environment of young solar-like stars“'
-        - 'Supervisor: Manuel Güdel'
+        - 'Supervisor: Prof. Manuel Güdel'
+        - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
 
 - title: Education
   type: time_table
@@ -47,12 +50,14 @@
       institution: University of Vienna, Vienna, Austria
       year: 2012
       description:
-        - 'Thesis: ”Dust Radiative Transfer in Protoplanetary Disks with PHOENIX/3D” Supervisor: Manuel Güdel. Passed with distinction.'
+        - 'Supervisor: Manuel Güdel'
+        - 'Thesis: ”Dust Radiative Transfer in Protoplanetary Disks with PHOENIX/3D”, Passed with distinction.'
 
     - title: Bachelor
       institution: University of Vienna, Vienna, Austria
       year: 2009
       description:
-        - 'Bachelor Thesis: ”Direct Evidence for Dark Matter in Clusters of Galaxies” Supervisor: Christian Theis. Passed with distinction.'
+        - 'Supervisor: Christian Theis.'
+        - 'Bachelor Thesis: ”Direct Evidence for Dark Matter in Clusters of Galaxies”, Passed with distinction.'
 
 
