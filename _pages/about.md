@@ -19,11 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Christian Rab. I am a postdoctoral researcher in the Group of Prof. Barbara Ercolano at the [USM/LMU](https://www.usm.uni-muenchen.de/) in Munich and at the MPE in the [CAS group](https://www.mpe.mpg.de/CAS) of Prof. Paola Caselli.
+My name is Christian Rab. I am a postdoctoral researcher in the Group of Prof. Barbara Ercolano at the [USM/LMU](https://www.usm.uni-muenchen.de/) in Munich and at the MPE in the [CAS group](https://www.mpe.mpg.de/CAS) of Prof. Paola Caselli (project webpage: [RUTD](https://www.transitiondiscs.com/).
 
-My main interest is star and planet formation. To understand the (initial) conditions for planet-formation I use observations (e.g. ALMA) and model the circumstellar environment (disks, envelopes) of young stars using (mostly) the radiation thermo-chemical modelling code [ProDiMo](https://prodimo.iwf.oeaw.ac.at/). 
+My main interest is star and planet formation. To understand the (initial) conditions for planet-formation, I use observations (e.g. ALMA, JWST, optical) and model the circumstellar environment (disks, winds,  envelopes) of young stars using (mostly) the radiation thermo-chemical modelling code [ProDiMo](https://prodimo.iwf.oeaw.ac.at/). My current focus is on identifying and interpreting potential (molecular) observational tracers for disk winds. 
 
-Besides the scientific aspectes I am also very interested in software development. I am involved in further developing the ProDiMo code and I am the main developer of the python package [prodimopy](https://gitlab.astro.rug.nl/prodimo/prodimopy), that can be used to interpret and visulatize ProDiMo models.
+Besides the scientific aspects, I am also very interested in scientific software development. I am involved in further developing the ProDiMo code, and I am the leading developer of the Python package [prodimopy](https://gitlab.astro.rug.nl/prodimo/prodimopy), that can be used to interpret and visualise ProDiMo models.
 
 <!---
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
