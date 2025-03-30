@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: ich.png
+  image: ich.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>MPE: Office X5 1.4.40 </p>
