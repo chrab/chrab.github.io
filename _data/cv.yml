@@ -11,9 +11,17 @@
 - title: Research Experience
   type: time_table
   contents:    
+  
+    - title: Postdoc
+      institution: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
+      year: 10.2025–-
+      description: 
+        - 'Supervisor: Prof. Barbara Ercolano'
+        - Thermochemistry and observables of disk winds.
+
     - title: Postdoc
       institution: Universitäts-Sternwarte München-LMU, Garching, Germany 
-      year: 08.2021–
+      year: 08.2021–09.2025
       description: 
         - 'Supervisor: Prof. Barbara Ercolano'
         - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
