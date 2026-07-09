@@ -10,67 +10,73 @@
 cv: 
 
   sections:
-    Research Experience:
-      - institution: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
-        location: Garching, Germany
+    Experience:
+      - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc 
+        location: Garching, Germany
         start_date: 10.2025
         end_date:         
-        summary: 
+        highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
           - Thermochemistry and observables of disk winds.
         
-      - institution: Universitäts-Sternwarte München-LMU, Garching, Germany 
-        location: Munich, Germany
+      - company: Universitäts-Sternwarte München-LMU, Garching, Germany 
         position: Postdoc
+        location: Munich, Germany
         start_date: 08.2021
         end_date: 09.2025
-        summary: 
+        highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
           - Thermochemistry and observables of disk winds.
-            - 'Guest scientist at CAS@MPE'
+          - 'Guest scientist at CAS@MPE'
 
-      - institution: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
+      - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc
+        location: Garching, Germany
         start_date: 07.2020
         end_date: 07.2021
-        summary: 
+        highlights: 
           - 'Supervisor: Prof. Paola Caselli'
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
           - Thermochemistry and observables of disk winds.
 
         
-      - institution: Kapteyn Astronomical Institute - University of Groningen, Netherlands
+      - company: Kapteyn Astronomical Institute - University of Groningen, Netherlands
         position: Postdoc
+        location: Groningen, Netherlands
         start_date: 05.2017
         end_date: 06.2020
-        summary: 
+        highlights: 
           - 'Supervisor: Prof. Inga Kamp'
           - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.”'
           - Modelling of planet-forming and circumplanetary disks.
-
         
-      - institution:  University of Vienna, Vienna, Austria
+      - company:  University of Vienna, Vienna, Austria
         position: PhD Student
+        location: Vienna, Austria
         start_date: 10.2012
         end_date: 12.2017
-        summary: 
+        highlights: 
           - 'Supervisor: Prof. Manuel Güdel'
           - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
 
     Education:
       - institution: University of Vienna, Vienna, Austria
+        location: Vienna, Austria
+        area: Astrophysics
         studyType: Master
         end_date: 2012
-        summary:
+        highlights:
           - 'Supervisor: Manuel Güdel'
           - 'Thesis: ”Dust Radiative Transfer in Protoplanetary Disks with PHOENIX/3D”, Passed with distinction.'
        
       - institution: University of Vienna, Vienna, Austria
         studyType: Bachelor
+        location: Vienna, Austria
+        area: Astrophysics
         end_date: 2009
-        summary:
+        highlights:
           - 'Supervisor: Christian Theis.'
           - 'Bachelor Thesis: ”Direct Evidence for Dark Matter in Clusters of Galaxies”, Passed with distinction.'
 
