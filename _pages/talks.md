@@ -27,7 +27,6 @@ nav_order: 4
 {% endfor %}
 </ol>
 
-
 <h3>Posters</h3>
 
 <ol reversed="">
@@ -39,6 +38,5 @@ nav_order: 4
     </li>  
 {% endfor %}
 </ol>
-
 
 </div>
