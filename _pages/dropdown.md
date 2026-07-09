@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: flase
 nav_order: 8
 dropdown: true
 children:

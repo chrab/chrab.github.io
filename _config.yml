@@ -109,6 +109,15 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: chrab # your GitHub user name
+linkedin_username: christian-rab # your LinkedIn user name
+orcid_id: 0000-0003-1817-6576 # your ORCID ID
+research_gate_profile: Christian-Rab # your profile on ResearchGate
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
@@ -128,7 +137,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  # blog_name will be displayed in your blog page
-blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -138,7 +147,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: trfalseue
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -694,19 +703,19 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+  # - data: resume
+  #   json: # assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
