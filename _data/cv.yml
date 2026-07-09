@@ -13,7 +13,7 @@ cv:
       - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc 
         location: Garching, Germany
-        start_date: 10.2025
+        start_date: 10-2025
         end_date:         
         highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
@@ -22,8 +22,8 @@ cv:
       - company: Universitäts-Sternwarte München-LMU, Garching, Germany 
         position: Postdoc
         location: Munich, Germany
-        start_date: 08.2021
-        end_date: 09.2025
+        start_date: 08-2021
+        end_date: 09-2025
         highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
@@ -33,8 +33,8 @@ cv:
       - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc
         location: Garching, Germany
-        start_date: 07.2020
-        end_date: 07.2021
+        start_date: 07-2020
+        end_date: 07-2021
         highlights: 
           - 'Supervisor: Prof. Paola Caselli'
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
@@ -43,8 +43,8 @@ cv:
       - company: Kapteyn Astronomical Institute - University of Groningen, Netherlands
         position: Postdoc
         location: Groningen, Netherlands
-        start_date: 05.2017
-        end_date: 06.2020
+        start_date: 05-2017
+        end_date: 06-2020
         highlights: 
           - 'Supervisor: Prof. Inga Kamp'
           - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.”'
@@ -53,8 +53,8 @@ cv:
       - company:  University of Vienna, Vienna, Austria
         position: PhD Student
         location: Vienna, Austria
-        start_date: 10.2012
-        end_date: 12.2017
+        start_date: 10-2012
+        end_date: 12-2017
         highlights: 
           - 'Supervisor: Prof. Manuel Güdel'
           - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
