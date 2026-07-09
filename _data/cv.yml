@@ -8,7 +8,6 @@
 #    - name: Languages
 #      value: English, German
 cv: 
-
   sections:
     Experience:
       - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
@@ -40,7 +39,6 @@ cv:
           - 'Supervisor: Prof. Paola Caselli'
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
           - Thermochemistry and observables of disk winds.
-
         
       - company: Kapteyn Astronomical Institute - University of Groningen, Netherlands
         position: Postdoc
