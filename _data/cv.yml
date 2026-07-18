@@ -8,19 +8,20 @@
 #    - name: Languages
 #      value: English, German
 cv: 
-  sections:    
-        
-    Research Experience:
-      - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
+  sections:        
+    Experience:      
+      - company: The Center for Astrochemical Studies (CAS@MPE)
         position: Postdoc 
+        location: Garching, Germany
         start_date: 2025-10
         end_date: present         
         highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
           - Thermochemistry and observables of disk winds.
         
-      - company: Universitäts-Sternwarte München-LMU, Munich, Germany 
+      - company: Universitäts-Sternwarte München-LMU
         position: Postdoc
+        location: Munich, Germany
         start_date: 2021-08
         end_date: 2025-09
         highlights: 
@@ -29,8 +30,9 @@ cv:
           - Thermochemistry and observables of disk winds.
           - 'Guest scientist at CAS@MPE'
 
-      - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
+      - company: The Center for Astrochemical Studies (CAS@MPE)
         position: Postdoc
+        location: Garching, Germany
         start_date: 2020-07
         end_date: 2021-07
         highlights: 
@@ -38,8 +40,9 @@ cv:
           - '<a href="https://www.transitiondiscs.com/" target="_blank">DFG Research Unit: Planet Formation Witnesses & Probes: Transition Disks</a>'
           - Thermochemistry and observables of disk winds.
         
-      - company: Kapteyn Astronomical Institute - University of Groningen, Netherlands
+      - company: Kapteyn Astronomical Institute - University of Groningen
         position: Postdoc
+        location: Groningen, Netherlands
         start_date: 2017-05
         end_date: 2020-06
         highlights: 
@@ -47,17 +50,9 @@ cv:
           - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.”'
           - Modelling of planet-forming and circumplanetary disks.
         
-      - company: University of Vienna, Vienna, Austria
-        position: PhD Student
-        start_date: 2012-10
-        end_date: 2017-12
-        highlights: 
-          - 'Supervisor: Prof. Manuel Güdel'
-          - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
-
-    Professional Experience:
-      - company: Dr. E. Hackhofer GesmbH, Vienna, Austria
+      - company: Dr. E. Hackhofer GesmbH
         position: Software Engineer
+        location: Vienna, Austria
         start_date: 1999-02
         end_date: 2006-01
         highlights: 
@@ -66,8 +61,19 @@ cv:
             in an J2EE environment (Servlets, JSP, Struts, JUnit, JDBC, WebServices)  
                   
     Education:
-      - institution: University of Vienna, Vienna, Austria
+      - institution: University of Vienna
+        position: PhD Student
+        location: Vienna, Austria
+        studyType: PhD
+        start_date: 2012-10
+        end_date: 2017-12
+        highlights: 
+          - 'Supervisor: Prof. Manuel Güdel'
+          - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
+
+      - institution: University of Vienna
         area: Astronomy & Astrophysics
+        location: Vienna, Austria
         studyType: Master
         start_date: 2009-10
         end_date: 2012-05
@@ -75,7 +81,7 @@ cv:
           - 'Supervisor: Manuel Güdel'
           - 'Thesis: ”Dust Radiative Transfer in Protoplanetary Disks with PHOENIX/3D”, Passed with distinction.'
        
-      - institution: University of Vienna, Vienna, Austria
+      - institution: University of Vienna
         studyType: Bachelor
         location: Vienna, Austria
         area: Astronomy & Astrophysics
