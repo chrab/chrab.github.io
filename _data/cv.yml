@@ -8,20 +8,19 @@
 #    - name: Languages
 #      value: English, German
 cv: 
-  sections:
-    Experience:
+  sections:    
+        
+    Research Experience:
       - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc 
-        location: Garching, Germany
         start_date: 2025-10
-        end_date:         
+        end_date: present         
         highlights: 
           - 'Supervisor: Prof. Barbara Ercolano'
           - Thermochemistry and observables of disk winds.
         
-      - company: Universitäts-Sternwarte München-LMU, Garching, Germany 
+      - company: Universitäts-Sternwarte München-LMU, Munich, Germany 
         position: Postdoc
-        location: Munich, Germany
         start_date: 2021-08
         end_date: 2025-09
         highlights: 
@@ -32,7 +31,6 @@ cv:
 
       - company: The Center for Astrochemical Studies (CAS@MPE), Garching, Germany 
         position: Postdoc
-        location: Garching, Germany
         start_date: 2020-07
         end_date: 2021-07
         highlights: 
@@ -42,7 +40,6 @@ cv:
         
       - company: Kapteyn Astronomical Institute - University of Groningen, Netherlands
         position: Postdoc
-        location: Groningen, Netherlands
         start_date: 2017-05
         end_date: 2020-06
         highlights: 
@@ -50,21 +47,30 @@ cv:
           - 'Project: ”Herbig Ae/Be stars: Rosetta stone for understanding the formation of planetary systems.”'
           - Modelling of planet-forming and circumplanetary disks.
         
-      - company:  University of Vienna, Vienna, Austria
+      - company: University of Vienna, Vienna, Austria
         position: PhD Student
-        location: Vienna, Austria
         start_date: 2012-10
         end_date: 2017-12
         highlights: 
           - 'Supervisor: Prof. Manuel Güdel'
           - 'Thesis: <a href="https://utheses.univie.ac.at/detail/44484/" target="_blank">Modelling of energetic processes in the circumstellar environment of young solar-like stars</a>'
 
+    Professional Experience:
+      - company: Dr. E. Hackhofer GesmbH, Vienna, Austria
+        position: Software Engineer
+        start_date: 1999-02
+        end_date: 2006-01
+        highlights: 
+          - Development and maintenance of an insurance software written in C.
+          - Development and design of web applications for the Uniqa Insurance Company
+            in an J2EE environment (Servlets, JSP, Struts, JUnit, JDBC, WebServices)  
+                  
     Education:
       - institution: University of Vienna, Vienna, Austria
-        location: Vienna, Austria
-        area: Astrophysics
+        area: Astronomy & Astrophysics
         studyType: Master
-        end_date: 2012
+        start_date: 2009-10
+        end_date: 2012-05
         highlights:
           - 'Supervisor: Manuel Güdel'
           - 'Thesis: ”Dust Radiative Transfer in Protoplanetary Disks with PHOENIX/3D”, Passed with distinction.'
@@ -72,8 +78,9 @@ cv:
       - institution: University of Vienna, Vienna, Austria
         studyType: Bachelor
         location: Vienna, Austria
-        area: Astrophysics
-        end_date: 2009
+        area: Astronomy & Astrophysics
+        start_date: 2006-03
+        end_date: 2009-08
         highlights:
           - 'Supervisor: Christian Theis.'
           - 'Bachelor Thesis: ”Direct Evidence for Dark Matter in Clusters of Galaxies”, Passed with distinction.'

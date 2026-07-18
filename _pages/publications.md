@@ -9,7 +9,7 @@ nav_order: 3
 
 <!-- Bibsearch Feature -->
 
-List of my first author papers. For my full and update publication list see <a href="https://ui.adsabs.harvard.edu/public-libraries/3raT73auTimttZwzYrD6UA">SAO/NASA ADS</a>.
+List of my first author papers. For my full and up-to-date publication list see <a href="https://scixplorer.org/search?p=1&q=docs%28library%2Fq1RMTfMSQUuLqlCQQeHB3g%29&sort=date+desc&d=astrophysics">SciX</a>.
 
 {% include bib_search.liquid %}
 
