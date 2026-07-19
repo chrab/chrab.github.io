@@ -145,8 +145,8 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 # giscus:
-#   repo: chrab/chrab.github.io      # <your-github-user-name>/<your-github-repo-name>
-#   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+#   repo:       # <your-github-user-name>/<your-github-repo-name>
+#   repo_id: 
 #   category: Comments             # name of the category under which discussions will be created
 #   category_id: DIC_kwDOA5PmLc4CTBt6
 #   mapping: title                 # identify discussions by post title
@@ -159,7 +159,7 @@ related_blog_posts:
 #   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

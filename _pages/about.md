@@ -15,6 +15,8 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 news: false
+comments: false # includes a list of comments from the `_comments` folder
+giscus_comments: false # includes a list of comments from the `_comments` folder using Giscus
 social: true # includes social icons at the bottom of the page
 
 announcements:
