@@ -12,6 +12,10 @@
 @use "variables" as v;
 @use "sass:color";
 
+html {
+  font-size: 1.1rem;  /* Increase font size for better readability */
+}  
+
 :root {
   color-scheme: light;
   font-size: 1.1rem;  /* Increase font size for better readability */
