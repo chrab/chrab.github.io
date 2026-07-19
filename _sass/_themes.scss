@@ -14,6 +14,7 @@
 
 :root {
   color-scheme: light;
+  font-size: 1.1rem;  /* Increase font size for better readability */
   --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$black-color};
@@ -215,3 +216,5 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+
