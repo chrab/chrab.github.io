@@ -30,46 +30,6 @@ a:focus {
   -webkit-font-smoothing: antialiased !important;
 }
 
-
-#logout {
-  font-family: "Proxima Nova", sans-serif;
-  color: #f8f8f0;
-  background: transparent;
-  background-color: transparent;
-  border: 2px solid #2f2f2f;
-  font-weight: normal;
-  box-shadow: none;
-  text-shadow: none;
-  border-radius: 3px;
-  margin-right: 10px;
-  padding: 2px 7px;
-}
-
-
-#logout:hover {
-  color: #a6e22e;
-  background-color: transparent;
-  background: transparent;
-  border: 2px solid #a6e22e;
-  background-image: none;
-  box-shadow: none !important;
-  border-radius: 3px;
-}
-
-
-#logout:focus,
-#logout.focus,
-#logout:active,
-#logout.active {
-  color: #f8f8f2;
-  background-color: #f8f8f0;
-  background: #f8f8f0;
-  border-color: #f8f8f0;
-  background-image: none;
-  box-shadow: none !important;
-  border-radius: 2px;
-}
-
 body > #header {
   background: #1e1e1e;
   background-color: #1e1e1e;
@@ -629,21 +589,6 @@ mark,
 .toc {
   color: #f8f8f2 !important;
   font-size: 11pt !important;
-}
-
-input.raw_input {
-  font-family: monospace, monospace;
-  font-size: 11pt !important;
-  color: #f8f8f0;
-  background-color: #282828;
-  border-color: #252525;
-  background: #252525;
-  width: auto;
-  vertical-align: baseline;
-  padding: 0em 0.25em;
-  margin: 0em 0.25em;
-  -webkit-box-shadow: none;
-  box-shadow: none;
 }
 
 

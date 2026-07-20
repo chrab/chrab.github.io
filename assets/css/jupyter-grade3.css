@@ -30,46 +30,6 @@ a:focus {
   -webkit-font-smoothing: antialiased !important;
 }
 
-
-#logout {
-  font-family: "Proxima Nova", sans-serif;
-  color: #303030;
-  background: transparent;
-  background-color: transparent;
-  border: 2px solid #e5e5e5;
-  font-weight: normal;
-  box-shadow: none;
-  text-shadow: none;
-  border-radius: 3px;
-  margin-right: 10px;
-  padding: 2px 7px;
-}
-
-
-#logout:hover {
-  color: #ef5c00;
-  background-color: transparent;
-  background: transparent;
-  border: 2px solid #ef5c00;
-  background-image: none;
-  box-shadow: none !important;
-  border-radius: 3px;
-}
-
-
-#logout:focus,
-#logout.focus,
-#logout:active,
-#logout.active {
-  color: #1c1c1c;
-  background-color: #303030;
-  background: #303030;
-  border-color: #303030;
-  background-image: none;
-  box-shadow: none !important;
-  border-radius: 2px;
-}
-
 body > #header {
   background: #ffffff;
   background-color: #ffffff;
@@ -629,21 +589,6 @@ mark,
 .toc {
   color: #1c1c1c !important;
   font-size: 11pt !important;
-}
-
-input.raw_input {
-  font-family: monospace, monospace;
-  font-size: 11pt !important;
-  color: #303030;
-  background-color: #efefef;
-  border-color: #ececec;
-  background: #ececec;
-  width: auto;
-  vertical-align: baseline;
-  padding: 0em 0.25em;
-  margin: 0em 0.25em;
-  -webkit-box-shadow: none;
-  box-shadow: none;
 }
 
 
