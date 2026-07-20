@@ -66,7 +66,7 @@ al_folio:
     cv:
       enabled: true
     distill:
-      enabled: true
+      enabled: false
   compat:
     bootstrap:
       enabled: false
